@@ -521,6 +521,10 @@ padding: 10px 5%;
 .col-md-3 {
 	width: 100%;
 }
+	
+	footer .col-md-3 {
+		width: 24%;
+	}
 .col-md-9, .col-md-8 {
 	width: 100%;
 }
