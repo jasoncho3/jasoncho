@@ -486,7 +486,12 @@ p {
 
 @media screen and (max-width:767px) {
 	
-	
+	.lead, .row h2 {
+	font-size: 30px;
+	line-height: 42px;
+	margin-top: 4px;
+	margin-bottom: -8px;
+}
 
 .navbar-nav {
 margin: 0
@@ -502,6 +507,17 @@ padding: 10px 5%;
 
 
 @media screen and (max-width: 991px) {
+	.lead, .row h2 {
+	font-size: 30px;
+	line-height: 42px;
+	margin-top: 4px;
+	margin-bottom: -8px;
+}
+
+	ul.nav {
+		margin-top: -28px;
+	}
+	
 .col-md-3 {
 	width: 100%;
 }
