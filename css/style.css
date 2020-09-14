@@ -135,7 +135,6 @@ width: auto;
 
 .item img{
 width: 100%;
-image-rendering: -webkit-optimize-contrast;
 }
 
 .item  {
@@ -315,7 +314,7 @@ background-color: transparent;
     -ms-transition: all 1s ease; /* Opera */
     transition: all 1s ease;
         max-width: 100%;
-	 image-rendering: -webkit-optimize-contrast;
+	
 }
 .fimg:hover img {
 	 -webkit-transform:scale(1.02); /* Safari and Chrome */
